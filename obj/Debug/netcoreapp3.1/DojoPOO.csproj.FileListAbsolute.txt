@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\obj\Debug\netcoreapp3.1\DojoPOO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\obj\Debug\netcoreapp3.1\DojoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\obj\Debug\netcoreapp3.1\DojoPOO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\obj\Debug\netcoreapp3.1\DojoPOO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\bin\Debug\netcoreapp3.1\DojoPOO.exe
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\bin\Debug\netcoreapp3.1\DojoPOO.deps.json
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\bin\Debug\netcoreapp3.1\DojoPOO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\bin\Debug\netcoreapp3.1\DojoPOO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\bin\Debug\netcoreapp3.1\DojoPOO.dll
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\bin\Debug\netcoreapp3.1\DojoPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\obj\Debug\netcoreapp3.1\DojoPOO.dll
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\obj\Debug\netcoreapp3.1\DojoPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\DojoPOO\obj\Debug\netcoreapp3.1\DojoPOO.genruntimeconfig.cache
